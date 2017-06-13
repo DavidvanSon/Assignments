@@ -10,3 +10,5 @@ This repository contains my assignments
 [assignment 4](https://github.com/DavidvanSon/Assignments/blob/master/assignment4.ipynb)
 
 [assignment 5](https://github.com/DavidvanSon/Assignments/blob/master/assignment5-Copy1.ipynb)
+
+[R exam](https://github.com/DavidvanSon/Assignments/blob/master/OECD_R_exam.ipynb)
